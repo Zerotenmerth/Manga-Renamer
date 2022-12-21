@@ -1,0 +1,10 @@
+E:\Programs\MangaRenamer\MangaRenamer\bin\Debug\MangaRenamer.exe
+E:\Programs\MangaRenamer\MangaRenamer\bin\Debug\MangaRenamer.pdb
+E:\Programs\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.exe
+E:\Programs\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.pdb
+E:\Programs\MangaRenamer\MangaRenamer\bin\Debug\DotNetZip.dll
+E:\Programs\MangaRenamer\MangaRenamer\bin\Debug\DotNetZip.pdb
+E:\Programs\MangaRenamer\MangaRenamer\bin\Debug\DotNetZip.xml
+E:\Programs\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.csproj.CoreCompileInputs.cache
+E:\Programs\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.csproj.CopyComplete
+E:\Programs\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.csproj.AssemblyReference.cache
